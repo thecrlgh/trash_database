@@ -1,7 +1,7 @@
 {
   "name": "trash-pcd",
   "version": "1.0.37",
-  "description": "TRaSH Guides converted to PCD format",
+  "description": "TRaSH Guides",
   "arr_types": [
     "radarr",
     "sonarr"
@@ -21,10 +21,8 @@
   "repository": "https://github.com/dictionarry-hub/trash-pcd",
   "tags": [
     "trash",
-    "guides",
-    "quality",
-    "custom-formats",
-    "profiles"
+    "profilarr",
+    "dictionary"
   ],
   "links": {
     "homepage": "https://trash-guides.info",

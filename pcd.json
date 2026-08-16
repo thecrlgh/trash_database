@@ -1,7 +1,7 @@
 {
   "name": "trash-pcd",
   "version": "1.0.37",
-  "description": "TRaSH Guides converted to PCD format - community-maintained quality profiles and custom formats",
+  "description": "TRaSH Guides converted to PCD format",
   "arr_types": [
     "radarr",
     "sonarr"
@@ -31,6 +31,6 @@
     "issues": "https://github.com/dictionarry-hub/trash-pcd/issues"
   },
   "profilarr": {
-    "minimum_version": "2.0.0"
+    "minimum_version": "27.0.0"
   }
 }

@@ -2,14 +2,6 @@
 
 [TRaSH Guides](https://trash-guides.info) profiles converted to PCD format for [Profilarr](https://github.com/Dictionarry-Hub/profilarr).
 
-## Branches
-
-| Branch | Description |
-|--------|-------------|
-| `main` | Standard / Anime / SQP profiles |
-| `french` | French MULTi.VO profiles |
-| `german` | German profiles |
-
 ## Usage
 
 Add this repository as a database in Profilarr:
